@@ -1,0 +1,28 @@
+.comic-details {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.comic-details .title {
+	margin: 60px auto;
+	text-align: center;
+	font-size: 30px;
+}
+
+.creator-comic {
+	text-align: right;
+	font-size: 15px;
+}
+
+.comic-pages {
+	width: 35%;
+}
+.comic-details-image {
+	max-width: 100% !important; /* Try using !important as a temporary solution */
+	width: 100%; /* Ensure the image fills its container width */
+	height: auto; /* Maintain aspect ratio */
+	display: block;
+	margin-bottom: 10px; /* Optional: Add space between images */
+}

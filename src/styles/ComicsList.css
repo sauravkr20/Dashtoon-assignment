@@ -1,0 +1,31 @@
+/* comicsList.css */
+
+.saved .title {
+	margin: 60px auto;
+	text-align: center;
+	font-size: 30px;
+}
+
+.comics-list {
+	font-family: Arial, sans-serif;
+}
+
+.comics-list table {
+	width: 50vw;
+	margin: 10px auto;
+	border-collapse: collapse;
+	margin-top: 20px;
+}
+
+.comics-list th,
+.comics-list td {
+	border: none;
+	padding: 8px;
+	text-align: left;
+}
+
+.comics-list th {
+	font-size: 12px;
+	font-weight: light;
+	color: #777;
+}
