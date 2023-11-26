@@ -9,7 +9,7 @@ import { AuthContextProvider } from "./context/AuthContext";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-	<BrowserRouter>
+	<BrowserRouter basename="/Dashtoon-assignment">
 		<AuthContextProvider>
 			<App />
 		</AuthContextProvider>
