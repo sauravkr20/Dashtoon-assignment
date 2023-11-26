@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Dashtoon-assignment/static/css/main.a79ff2e3.css",
-    "main.js": "/Dashtoon-assignment/static/js/main.1b88c039.js",
+    "main.js": "/Dashtoon-assignment/static/js/main.d3f7a3e0.js",
     "static/js/787.62e2a104.chunk.js": "/Dashtoon-assignment/static/js/787.62e2a104.chunk.js",
     "static/media/image.png": "/Dashtoon-assignment/static/media/image.f81c5301db9faee1cd53.png",
     "index.html": "/Dashtoon-assignment/index.html",
     "main.a79ff2e3.css.map": "/Dashtoon-assignment/static/css/main.a79ff2e3.css.map",
-    "main.1b88c039.js.map": "/Dashtoon-assignment/static/js/main.1b88c039.js.map",
+    "main.d3f7a3e0.js.map": "/Dashtoon-assignment/static/js/main.d3f7a3e0.js.map",
     "787.62e2a104.chunk.js.map": "/Dashtoon-assignment/static/js/787.62e2a104.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a79ff2e3.css",
-    "static/js/main.1b88c039.js"
+    "static/js/main.d3f7a3e0.js"
   ]
 }
