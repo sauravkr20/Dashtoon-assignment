@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashtoonAss/static/css/main.a79ff2e3.css",
+    "main.js": "/dashtoonAss/static/js/main.aab28863.js",
+    "static/js/787.62e2a104.chunk.js": "/dashtoonAss/static/js/787.62e2a104.chunk.js",
+    "static/media/image.png": "/dashtoonAss/static/media/image.f81c5301db9faee1cd53.png",
+    "index.html": "/dashtoonAss/index.html",
+    "main.a79ff2e3.css.map": "/dashtoonAss/static/css/main.a79ff2e3.css.map",
+    "main.aab28863.js.map": "/dashtoonAss/static/js/main.aab28863.js.map",
+    "787.62e2a104.chunk.js.map": "/dashtoonAss/static/js/787.62e2a104.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a79ff2e3.css",
+    "static/js/main.aab28863.js"
+  ]
+}
