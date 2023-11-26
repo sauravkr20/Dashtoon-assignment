@@ -118,6 +118,7 @@ const ImageGenerator = () => {
 
 	const handleImageClick = (id) => {
 		const clickedImage = imageMapping[id];
+		setGeneratedImage(clickedImage.imageUrl);
 		setIndex(parseInt(id, 10) + 1);
 		setTitle(clickedImage.title);
 		setComment(clickedImage.comment);
@@ -214,9 +215,7 @@ const ImageGenerator = () => {
 						<ul>
 							{imageMapping.map((image, id) => (
 								<li key={id} onClick={() => handleImageClick(id)}>
-									{id}
 									<img src={image.imageUrl} alt="Generated" />
-									{image.title}
 								</li>
 							))}
 						</ul>
