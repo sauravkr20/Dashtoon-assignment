@@ -29,3 +29,8 @@
 	font-weight: light;
 	color: #777;
 }
+
+.comics-list-error {
+	text-align: center;
+	font-size: larger;
+}
